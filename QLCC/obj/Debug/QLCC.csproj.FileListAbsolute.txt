@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\QLCC\bin\Debug\QLCC.exe.config
+C:\Users\dell\source\repos\QLCC\bin\Debug\QLCC.exe
+C:\Users\dell\source\repos\QLCC\bin\Debug\QLCC.pdb
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.FrmDangNhap.resources
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.MDI_QLCC.resources
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.Properties.Resources.resources
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.exe
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.pdb
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.FrmChamCong.resources
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.FrmNhanVien.resources
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.frmTimKiem1.resources
+C:\Users\dell\source\repos\QLCC\obj\Debug\QLCC.FrmTimKiem2.resources
